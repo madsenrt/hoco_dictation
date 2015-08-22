@@ -1,5 +1,6 @@
 # hoco_dictation
-home cooked speech to text software
+Speech to text software based off Cooley-Tukey FFT Algorithm
 
-coming soon:
-fft
+Written in C for OS X
+
+Current Apple Framework Dependencies: AudioUnit, CoreFoundation, CoreServices, CoreAudio, AudioToolbox
